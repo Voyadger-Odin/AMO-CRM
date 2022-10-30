@@ -46,3 +46,5 @@ foreach ($cars as $carId => $car){
 
     echo '<br>';
 }
+
+echo "GIT TEST";
